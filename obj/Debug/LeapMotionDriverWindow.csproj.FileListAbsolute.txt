@@ -1,0 +1,17 @@
+C:\Users\eskjtwerjow\Desktop\smartCar-master\LeapMotionDriverWindow\obj\Debug\LeapMotionDriverWindow.csprojAssemblyReference.cache
+C:\Users\eskjtwerjow\Desktop\smartCar-master\LeapMotionDriverWindow\obj\Debug\Controls\CircularProgressBar.baml
+C:\Users\eskjtwerjow\Desktop\smartCar-master\LeapMotionDriverWindow\obj\Debug\MenuWindow.baml
+C:\Users\eskjtwerjow\Desktop\smartCar-master\LeapMotionDriverWindow\obj\Debug\Menu\MenuButton.baml
+C:\Users\eskjtwerjow\Desktop\smartCar-master\LeapMotionDriverWindow\obj\Debug\Controls\CircularProgressBar.g.cs
+C:\Users\eskjtwerjow\Desktop\smartCar-master\LeapMotionDriverWindow\obj\Debug\DockMainScene.g.cs
+C:\Users\eskjtwerjow\Desktop\smartCar-master\LeapMotionDriverWindow\obj\Debug\MenuWindow.g.cs
+C:\Users\eskjtwerjow\Desktop\smartCar-master\LeapMotionDriverWindow\obj\Debug\Menu\VideoMenu.g.cs
+C:\Users\eskjtwerjow\Desktop\smartCar-master\LeapMotionDriverWindow\obj\Debug\Menu\GMapMenu.g.cs
+C:\Users\eskjtwerjow\Desktop\smartCar-master\LeapMotionDriverWindow\obj\Debug\Menu\MainMenu.g.cs
+C:\Users\eskjtwerjow\Desktop\smartCar-master\LeapMotionDriverWindow\obj\Debug\Menu\MenuButton.g.cs
+C:\Users\eskjtwerjow\Desktop\smartCar-master\LeapMotionDriverWindow\obj\Debug\MainWindow.g.cs
+C:\Users\eskjtwerjow\Desktop\smartCar-master\LeapMotionDriverWindow\obj\Debug\App.g.cs
+C:\Users\eskjtwerjow\Desktop\smartCar-master\LeapMotionDriverWindow\obj\Debug\LeapMotionDriverWindow_Content.g.cs
+C:\Users\eskjtwerjow\Desktop\smartCar-master\LeapMotionDriverWindow\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\eskjtwerjow\Desktop\smartCar-master\LeapMotionDriverWindow\obj\Debug\LeapMotionDriverWindow_MarkupCompile.cache
+C:\Users\eskjtwerjow\Desktop\smartCar-master\LeapMotionDriverWindow\obj\Debug\LeapMotionDriverWindow_MarkupCompile.lref
